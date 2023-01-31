@@ -5,7 +5,7 @@ import { destinationReducer } from "./Slice/destinationSlice";
 export const store = configureStore({
   reducer: {
     counterStore: counterReducer,
-    desinationStore: destinationReducer,
+    destinationStore: destinationReducer,
   },
 });
 
