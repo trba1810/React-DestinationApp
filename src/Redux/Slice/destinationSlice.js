@@ -6,17 +6,17 @@ const initialState = () => {
       {
         name: "Hong Kong",
         days: 7,
-        fact: "World longest escalator",
+        fact: "Najveci lift na svetu",
       },
       {
         name: "Japan",
         days: 10,
-        fact: "mostly mountains",
+        fact: "Velike Planine",
       },
       {
         name: "New Zeland",
         days: 14,
-        fact: "Last country in the world to be inhabited by humans",
+        fact: "Poslednja zemlja naseljena ljudima",
       },
     ],
     destinationSelected: null,
