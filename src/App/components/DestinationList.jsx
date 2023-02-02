@@ -7,7 +7,7 @@ function DestinationList() {
   const destinationList = useSelector(
     (state) => state.destinationStore.destinations
   );
-  console.log(destinationList);
+
   return destinationList.map((destination, index) => {
     return (
       <div
